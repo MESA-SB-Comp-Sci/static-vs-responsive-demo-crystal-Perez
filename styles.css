@@ -38,11 +38,49 @@ p {
 
 /* Compleate challenge own here */
 
-.box1{
+.box-1{
   box-sizing: border-box;
-  padding: 20px yellow;
+  height: 100vh;
+  background-color: orange;
+  display: inline-block;
+  color: white;
+  padding: 1rem;
 }
 
+.box-2{
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: purple;
+  display: inline-block;
+  color: white;
+  padding: 1rem;
+}
+
+.box-3{
+  box-sizing: border-box;
+  height:100vh;
+  background-color: pink;
+  display: inline-block;
+  color: white;
+  padding: 1rem;
 
 
+}
+
+.box-4{
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: black;
+  display: inline-block;
+  color: white;
+  padding: 1rem;
+ 
+  h2{
+    font-size: 3vw;
+    margin-bottom: 2vh;
+    color: lightcoral;
+
+  }
+
+}
 
